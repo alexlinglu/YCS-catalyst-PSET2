@@ -2,7 +2,6 @@ function level_10() {
     document.getElementById("l10").innerHTML = "Hello, world!";
 }
 
-
 function level_11() {
     if(!(document.getElementById("l11").style.backgroundColor == "yellow")){
         document.getElementById("l11").style.backgroundColor = "yellow";

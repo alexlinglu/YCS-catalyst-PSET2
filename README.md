@@ -23,3 +23,6 @@ Please make a screen recording through Zoom or any other screen-recording applic
 ## Attributions
 
 Thanks to Eric Yoon for designing this PSET!
+
+N.B. html header is not correct but I can't modify the file so this is going to act as a replacement
+<!DOCTYPE html>
